@@ -1,0 +1,8 @@
+Configuração Docker 
+https://docs.confluent.io/5.5.1/quickstart/ce-docker-quickstart.html
+https://adinasarapu.github.io/posts/2021/01/blog-post-kafka-spark-streaming/
+https://medium.com/@datacouch/quickstart-guide-for-installing-confluent-platform-having-apache-kafka-using-docker-5898dea98644
+https://docs.databricks.com/_static/notebooks/schema-registry-integration/index.html#avro-data-and-schema-registry.html
+https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/
+https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/
+https://betterprogramming.pub/avro-producer-with-python-and-confluent-kafka-library-4a1a2ed91a24
